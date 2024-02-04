@@ -1,0 +1,410 @@
+time="2024-02-01T19:30:54+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:33:24+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:33:27+01:00" level=info msg="2024-02-01 19:33:27 | PostmanRuntime/7.36.1 | 400" requestID=1180940
+time="2024-02-01T19:33:32+01:00" level=info msg="2024-02-01 19:33:32 | PostmanRuntime/7.36.1 | 400" requestID=1180940
+time="2024-02-01T19:35:11+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:35:26+01:00" level=info msg="2024-02-01 19:35:26 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:35:41+01:00" level=info msg="2024-02-01 19:35:41 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:36:02+01:00" level=info msg="2024-02-01 19:36:02 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:36:32+01:00" level=info msg="2024-02-01 19:36:32 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:36:33+01:00" level=info msg="2024-02-01 19:36:33 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:36:34+01:00" level=info msg="2024-02-01 19:36:34 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:36:35+01:00" level=info msg="2024-02-01 19:36:35 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:36:51+01:00" level=info msg="2024-02-01 19:36:51 | PostmanRuntime/7.36.1 | 400" requestID=5697608
+time="2024-02-01T19:38:12+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:38:16+01:00" level=info msg="2024-02-01 19:38:16 | PostmanRuntime/7.36.1 | 400" requestID=4958224
+time="2024-02-01T19:38:58+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:39:10+01:00" level=info msg="2024-02-01 19:39:10 | PostmanRuntime/7.36.1 | 400" requestID=1498739
+time="2024-02-01T19:39:16+01:00" level=info msg="2024-02-01 19:39:16 | PostmanRuntime/7.36.1 | 400" requestID=1498739
+time="2024-02-01T19:39:50+01:00" level=info msg="2024-02-01 19:39:50 | PostmanRuntime/7.36.1 | 400" requestID=1498739
+time="2024-02-01T19:41:30+01:00" level=info msg="2024-02-01 19:41:30 | PostmanRuntime/7.36.1 | 400" requestID=1498739
+time="2024-02-01T19:42:49+01:00" level=info msg="2024-02-01 19:42:49 | PostmanRuntime/7.36.1 | 400" requestID=1498739
+time="2024-02-01T19:42:54+01:00" level=info msg="2024-02-01 19:42:54 | PostmanRuntime/7.36.1 | 400" requestID=1498739
+time="2024-02-01T19:44:03+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:46:44+01:00" level=info msg="2024-02-01 19:46:44 | PostmanRuntime/7.36.1 | 400" requestID=5868779
+time="2024-02-01T19:47:06+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:47:12+01:00" level=info msg="2024-02-01 19:47:12 | PostmanRuntime/7.36.1 | 400" requestID=7025640
+time="2024-02-01T19:47:13+01:00" level=info msg="2024-02-01 19:47:13 | PostmanRuntime/7.36.1 | 400" requestID=7025640
+time="2024-02-01T19:47:22+01:00" level=info msg="2024-02-01 19:47:22 | PostmanRuntime/7.36.1 | 400" requestID=7025640
+time="2024-02-01T19:47:23+01:00" level=info msg="2024-02-01 19:47:23 | PostmanRuntime/7.36.1 | 400" requestID=7025640
+time="2024-02-01T19:47:24+01:00" level=info msg="2024-02-01 19:47:24 | PostmanRuntime/7.36.1 | 400" requestID=7025640
+time="2024-02-01T19:47:24+01:00" level=info msg="2024-02-01 19:47:24 | PostmanRuntime/7.36.1 | 400" requestID=7025640
+time="2024-02-01T19:47:52+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:50:10+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:50:41+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:51:08+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:51:30+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:52:05+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:53:58+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:54:00+01:00" level=info msg="2024-02-01 19:54:00 | PostmanRuntime/7.36.1 | 400" requestID=9115748
+time="2024-02-01T19:55:26+01:00" level=info msg="2024-02-01 19:55:26 | PostmanRuntime/7.36.1 | 400" requestID=9115748
+time="2024-02-01T19:58:39+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T19:58:41+01:00" level=info msg="2024-02-01 19:58:41 | PostmanRuntime/7.36.1 | 400" requestID=6652310
+time="2024-02-01T19:59:11+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:08:43+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:10:11+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:12:57+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:15:10+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:21:02+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:21:20+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:21:24+01:00" level=info msg="2024-02-01 20:21:24 | PostmanRuntime/7.36.1 | 400" requestID=4580209
+time="2024-02-01T20:21:27+01:00" level=info msg="2024-02-01 20:21:27 | PostmanRuntime/7.36.1 | 400" requestID=4580209
+time="2024-02-01T20:21:28+01:00" level=info msg="2024-02-01 20:21:28 | PostmanRuntime/7.36.1 | 400" requestID=4580209
+time="2024-02-01T20:21:28+01:00" level=info msg="2024-02-01 20:21:28 | PostmanRuntime/7.36.1 | 400" requestID=4580209
+time="2024-02-01T20:21:39+01:00" level=info msg="2024-02-01 20:21:39 | PostmanRuntime/7.36.1 | 400" requestID=4580209
+time="2024-02-01T20:36:21+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T20:36:27+01:00" level=info msg="2024-02-01 20:36:27 | PostmanRuntime/7.36.1 | 201" requestID=4860007
+time="2024-02-01T20:36:30+01:00" level=info msg="2024-02-01 20:36:30 | PostmanRuntime/7.36.1 | 400" requestID=4860007
+time="2024-02-01T20:36:38+01:00" level=info msg="2024-02-01 20:36:38 | PostmanRuntime/7.36.1 | 400" requestID=4860007
+time="2024-02-01T20:36:39+01:00" level=info msg="2024-02-01 20:36:39 | PostmanRuntime/7.36.1 | 400" requestID=4860007
+time="2024-02-01T23:20:44+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-01T23:21:08+01:00" level=info msg="2024-02-01 23:21:08 | PostmanRuntime/7.36.1 | 201" requestID=7060672
+time="2024-02-01T23:21:18+01:00" level=info msg="2024-02-01 23:21:18 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-01T23:21:19+01:00" level=info msg="2024-02-01 23:21:19 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-01T23:21:20+01:00" level=info msg="2024-02-01 23:21:20 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-01T23:21:21+01:00" level=info msg="2024-02-01 23:21:21 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-01T23:21:21+01:00" level=info msg="2024-02-01 23:21:21 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-01T23:21:22+01:00" level=info msg="2024-02-01 23:21:22 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-01T23:21:25+01:00" level=info msg="2024-02-01 23:21:25 | PostmanRuntime/7.36.1 | 400" requestID=7060672
+time="2024-02-02T17:06:58+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:07:07+01:00" level=info msg="2024-02-02 17:07:07 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-02T17:07:13+01:00" level=info msg="2024-02-02 17:07:13 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:14+01:00" level=info msg="2024-02-02 17:07:14 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:14+01:00" level=info msg="2024-02-02 17:07:14 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:15+01:00" level=info msg="2024-02-02 17:07:15 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:16+01:00" level=info msg="2024-02-02 17:07:16 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:16+01:00" level=info msg="2024-02-02 17:07:16 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:17+01:00" level=info msg="2024-02-02 17:07:17 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:17+01:00" level=info msg="2024-02-02 17:07:17 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:18+01:00" level=info msg="2024-02-02 17:07:18 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:19+01:00" level=info msg="2024-02-02 17:07:19 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:19+01:00" level=info msg="2024-02-02 17:07:19 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:20+01:00" level=info msg="2024-02-02 17:07:20 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:21+01:00" level=info msg="2024-02-02 17:07:21 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:21+01:00" level=info msg="2024-02-02 17:07:21 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:22+01:00" level=info msg="2024-02-02 17:07:22 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:22+01:00" level=info msg="2024-02-02 17:07:22 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:07:23+01:00" level=info msg="2024-02-02 17:07:23 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-02T17:09:06+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:10:05+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:10:08+01:00" level=info msg="2024-02-02 17:10:08 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-02T17:10:09+01:00" level=info msg="2024-02-02 17:10:09 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T17:10:10+01:00" level=info msg="2024-02-02 17:10:10 | PostmanRuntime/7.36.1 | 400" requestID=3
+time="2024-02-02T17:10:11+01:00" level=info msg="2024-02-02 17:10:11 | PostmanRuntime/7.36.1 | 400" requestID=4
+time="2024-02-02T17:10:11+01:00" level=info msg="2024-02-02 17:10:11 | PostmanRuntime/7.36.1 | 400" requestID=5
+time="2024-02-02T17:10:16+01:00" level=info msg="2024-02-02 17:10:16 | PostmanRuntime/7.36.1 | 400" requestID=6
+time="2024-02-02T17:10:17+01:00" level=info msg="2024-02-02 17:10:17 | PostmanRuntime/7.36.1 | 400" requestID=7
+time="2024-02-02T17:10:18+01:00" level=info msg="2024-02-02 17:10:18 | PostmanRuntime/7.36.1 | 400" requestID=8
+time="2024-02-02T17:10:18+01:00" level=info msg="2024-02-02 17:10:18 | PostmanRuntime/7.36.1 | 400" requestID=9
+time="2024-02-02T17:10:19+01:00" level=info msg="2024-02-02 17:10:19 | PostmanRuntime/7.36.1 | 400" requestID=10
+time="2024-02-02T17:10:21+01:00" level=info msg="2024-02-02 17:10:21 | PostmanRuntime/7.36.1 | 400" requestID=11
+time="2024-02-02T17:10:21+01:00" level=info msg="2024-02-02 17:10:21 | PostmanRuntime/7.36.1 | 400" requestID=12
+time="2024-02-02T17:10:48+01:00" level=info msg="2024-02-02 17:10:48 | PostmanRuntime/7.36.1 | 400" requestID=13
+time="2024-02-02T17:10:50+01:00" level=info msg="2024-02-02 17:10:50 | PostmanRuntime/7.36.1 | 400" requestID=14
+time="2024-02-02T17:12:25+01:00" level=info msg="2024-02-02 17:12:25 | PostmanRuntime/7.36.1 | 400" requestID=15
+time="2024-02-02T17:12:25+01:00" level=info msg="2024-02-02 17:12:25 | PostmanRuntime/7.36.1 | 400" requestID=16
+time="2024-02-02T17:12:31+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:12:39+01:00" level=info msg="2024-02-02 17:12:39 | PostmanRuntime/7.36.1 | 201" requestID=2
+time="2024-02-02T17:12:39+01:00" level=info msg="2024-02-02 17:12:39 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T17:13:24+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:13:31+01:00" level=info msg="2024-02-02 17:13:31 | PostmanRuntime/7.36.1 | 201" requestID=2
+time="2024-02-02T17:13:31+01:00" level=info msg="2024-02-02 17:13:31 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T17:15:25+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:15:30+01:00" level=info msg="2024-02-02 17:15:30 | PostmanRuntime/7.36.1 | 201" requestID=2
+time="2024-02-02T17:15:31+01:00" level=info msg="2024-02-02 17:15:31 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T17:15:39+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:15:45+01:00" level=info msg="2024-02-02 17:15:45 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-02T17:15:46+01:00" level=info msg="2024-02-02 17:15:46 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T17:16:10+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T17:16:18+01:00" level=info msg="2024-02-02 17:16:18 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-02T17:16:21+01:00" level=info msg="2024-02-02 17:16:21 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T17:16:24+01:00" level=info msg="2024-02-02 17:16:24 | PostmanRuntime/7.36.1 | 400" requestID=3
+time="2024-02-02T18:06:02+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T18:06:08+01:00" level=info msg="2024-02-02 18:06:08 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-02T18:06:22+01:00" level=info msg="2024-02-02 18:06:22 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T18:06:36+01:00" level=info msg="2024-02-02 18:06:36 | PostmanRuntime/7.36.1 | 400" requestID=3
+time="2024-02-02T18:37:11+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T18:38:27+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-02T18:38:30+01:00" level=info msg="2024-02-02 18:38:30 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-02T18:38:38+01:00" level=info msg="2024-02-02 18:38:38 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-02T18:38:41+01:00" level=info msg="2024-02-02 18:38:41 | PostmanRuntime/7.36.1 | 405" requestID=3
+time="2024-02-02T18:38:45+01:00" level=info msg="2024-02-02 18:38:45 | PostmanRuntime/7.36.1 | 405" requestID=4
+time="2024-02-02T18:39:23+01:00" level=info msg="2024-02-02 18:39:23 | PostmanRuntime/7.36.1 | 400" requestID=5
+time="2024-02-03T13:37:50+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T13:37:55+01:00" level=info msg="2024-02-03 13:37:55 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-03T13:37:57+01:00" level=info msg="2024-02-03 13:37:57 | PostmanRuntime/7.36.1 | 500" requestID=2
+time="2024-02-03T13:43:05+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T13:43:10+01:00" level=info msg="2024-02-03 13:43:10 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-03T13:43:12+01:00" level=info msg="2024-02-03 13:43:12 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-03T13:44:22+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T13:44:23+01:00" level=info msg="2024-02-03 13:44:23 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-03T13:44:24+01:00" level=info msg="2024-02-03 13:44:24 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-03T13:45:12+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T13:45:15+01:00" level=info msg="2024-02-03 13:45:15 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-03T13:45:16+01:00" level=info msg="2024-02-03 13:45:16 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-03T14:29:26+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T14:29:28+01:00" level=info msg="2024-02-03 14:29:28 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-03T14:29:29+01:00" level=info msg="2024-02-03 14:29:29 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-03T14:29:30+01:00" level=info msg="2024-02-03 14:29:30 | PostmanRuntime/7.36.1 | 400" requestID=3
+time="2024-02-03T14:29:31+01:00" level=info msg="2024-02-03 14:29:31 | PostmanRuntime/7.36.1 | 400" requestID=4
+time="2024-02-03T14:30:55+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T14:30:57+01:00" level=info msg="2024-02-03 14:30:57 | PostmanRuntime/7.36.1 | 500" requestID=1
+time="2024-02-03T14:31:23+01:00" level=info msg="2024-02-03 14:31:23 | PostmanRuntime/7.36.1 | 500" requestID=2
+time="2024-02-03T14:31:24+01:00" level=info msg="2024-02-03 14:31:24 | PostmanRuntime/7.36.1 | 500" requestID=3
+time="2024-02-03T17:42:15+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T18:11:33+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T18:12:09+01:00" level=info msg="2024-02-03 18:12:09 | PostmanRuntime/7.36.1 | 201" requestID=1
+time="2024-02-03T18:12:13+01:00" level=info msg="2024-02-03 18:12:13 | PostmanRuntime/7.36.1 | 400" requestID=1
+time="2024-02-03T18:12:16+01:00" level=info msg="2024-02-03 18:12:16 | PostmanRuntime/7.36.1 | 400" requestID=2
+time="2024-02-03T18:12:20+01:00" level=info msg="2024-02-03 18:12:20 | PostmanRuntime/7.36.1 | 400" requestID=3
+time="2024-02-03T18:13:42+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T18:13:48+01:00" level=info msg="2024-02-03 18:13:48 | PostmanRuntime/7.36.1 | 201" requestID=3
+time="2024-02-03T19:04:16+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:04:19+01:00" level=info msg="2024-02-03 19:04:19 | PostmanRuntime/7.36.1 | 201" requestID=3
+time="2024-02-03T19:04:26+01:00" level=info msg="2024-02-03 19:04:26 | PostmanRuntime/7.36.1 | 400" requestID=3
+time="2024-02-03T19:05:32+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:05:50+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:05:52+01:00" level=info msg="2024-02-03 19:05:52 | PostmanRuntime/7.36.1 | 400" requestID="<nil>"
+time="2024-02-03T19:05:53+01:00" level=info msg="2024-02-03 19:05:53 | PostmanRuntime/7.36.1 | 400" requestID="<nil>"
+time="2024-02-03T19:05:55+01:00" level=info msg="2024-02-03 19:05:55 | PostmanRuntime/7.36.1 | 400" requestID="<nil>"
+time="2024-02-03T19:05:59+01:00" level=info msg="2024-02-03 19:05:59 | PostmanRuntime/7.36.1 | 400" requestID="<nil>"
+time="2024-02-03T19:06:05+01:00" level=info msg="2024-02-03 19:06:05 | PostmanRuntime/7.36.1 | 400" requestID="<nil>"
+time="2024-02-03T19:09:52+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:09:56+01:00" level=info msg="2024-02-03 19:09:56 | PostmanRuntime/7.36.1 | 400 | 96" requestID="<nil>"
+time="2024-02-03T19:09:58+01:00" level=info msg="2024-02-03 19:09:58 | PostmanRuntime/7.36.1 | 400 | 61" requestID="<nil>"
+time="2024-02-03T19:09:59+01:00" level=info msg="2024-02-03 19:09:59 | PostmanRuntime/7.36.1 | 400 | 30" requestID="<nil>"
+time="2024-02-03T19:10:00+01:00" level=info msg="2024-02-03 19:10:00 | PostmanRuntime/7.36.1 | 400 | 32" requestID="<nil>"
+time="2024-02-03T19:10:29+01:00" level=info msg="2024-02-03 19:10:29 | PostmanRuntime/7.36.1 | 201 | 20312" requestID="<nil>"
+time="2024-02-03T19:10:33+01:00" level=info msg="2024-02-03 19:10:33 | PostmanRuntime/7.36.1 | 400 | 8081" requestID="<nil>"
+time="2024-02-03T19:10:34+01:00" level=info msg="2024-02-03 19:10:34 | PostmanRuntime/7.36.1 | 400 | 5566" requestID="<nil>"
+time="2024-02-03T19:10:44+01:00" level=info msg="2024-02-03 19:10:44 | PostmanRuntime/7.36.1 | 400 | 9657" requestID="<nil>"
+time="2024-02-03T19:10:57+01:00" level=info msg="2024-02-03 19:10:57 | PostmanRuntime/7.36.1 | 201 | 10713" requestID="<nil>"
+time="2024-02-03T19:12:07+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:23:01+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:23:04+01:00" level=info msg="2024-02-03 19:23:04 | PostmanRuntime/7.36.1 | 201 | 19974" requestID="<nil>"
+time="2024-02-03T19:25:38+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:25:41+01:00" level=info msg="2024-02-03 19:25:41 | PostmanRuntime/7.36.1 | 201 | 14838" requestID="<nil>"
+time="2024-02-03T19:25:42+01:00" level=info msg="2024-02-03 19:25:42 | PostmanRuntime/7.36.1 | 400 | 6870" requestID="<nil>"
+time="2024-02-03T19:25:43+01:00" level=info msg="2024-02-03 19:25:43 | PostmanRuntime/7.36.1 | 400 | 9791" requestID="<nil>"
+time="2024-02-03T19:27:25+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:27:28+01:00" level=info msg="2024-02-03 19:27:28 | PostmanRuntime/7.36.1 | 201 | 16674" requestID=3
+time="2024-02-03T19:34:04+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:34:06+01:00" level=info msg="2024-02-03 19:34:06 | PostmanRuntime/7.36.1 | 201 | 19492" requestID=3
+time="2024-02-03T19:42:45+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:42:46+01:00" level=info msg="2024-02-03 19:42:46 | PostmanRuntime/7.36.1 | 201 | 15165" requestID=3
+time="2024-02-03T19:43:14+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T19:43:16+01:00" level=info msg="2024-02-03 19:43:16 | PostmanRuntime/7.36.1 | 400 | 89" requestID="<nil>"
+time="2024-02-03T19:43:17+01:00" level=info msg="2024-02-03 19:43:17 | PostmanRuntime/7.36.1 | 400 | 54" requestID="<nil>"
+time="2024-02-03T19:43:20+01:00" level=info msg="2024-02-03 19:43:20 | PostmanRuntime/7.36.1 | 201 | 12917" requestID=3
+time="2024-02-03T19:43:22+01:00" level=info msg="2024-02-03 19:43:22 | PostmanRuntime/7.36.1 | 400 | 7901" requestID=3
+time="2024-02-03T20:16:01+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T20:16:03+01:00" level=info msg="2024-02-03 20:16:03 | PostmanRuntime/7.36.1 | 201 | 12981" requestID=3
+time="2024-02-03T20:17:07+01:00" level=info msg="Service running in [:3001]" requestID="<nil>"
+time="2024-02-03T20:17:12+01:00" level=info msg="2024-02-03 20:17:12 | /upload | POST | PostmanRuntime/7.36.1 | 201 | 18011" requestID=3
+time="2024-02-03T20:17:19+01:00" level=info msg="2024-02-03 20:17:19 | /upload | POST | PostmanRuntime/7.36.1 | 400 | 10712" requestID=3
+time="2024-02-03T20:17:25+01:00" level=info msg="2024-02-03 20:17:25 | /upload | GET | PostmanRuntime/7.36.1 | 405 | 21" requestID=3
+time="2024-02-03T20:25:20+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T11:25:26+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T11:25:30+01:00" level=info msg="2024-02-04 11:25:30 | /upload | POST | PostmanRuntime/7.36.1 | 201 | 22484" requestID=3
+time="2024-02-04T11:25:35+01:00" level=info msg="2024-02-04 11:25:35 | /upload | POST | PostmanRuntime/7.36.1 | 400 | 4841" requestID=3
+time="2024-02-04T11:27:26+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T11:27:29+01:00" level=info msg="2024-02-04 11:27:29 | /upload | POST | PostmanRuntime/7.36.1 | 201 | 22526" requestID=3
+time="2024-02-04T11:27:31+01:00" level=info msg="2024-02-04 11:27:31 | /upload | POST | PostmanRuntime/7.36.1 | 400 | 7201" requestID=3
+time="2024-02-04T11:27:37+01:00" level=info msg="2024-02-04 11:27:37 | /get/421 | POST | PostmanRuntime/7.36.1 | 400 | 3566" requestID=3
+time="2024-02-04T11:33:21+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T11:33:25+01:00" level=info msg="2024-02-04 11:33:25 | /upload | POST | PostmanRuntime/7.36.1 | 201 | 21846" requestID=3
+time="2024-02-04T11:33:28+01:00" level=info msg="2024-02-04 11:33:28 | /get/421 | POST | PostmanRuntime/7.36.1 | 400 | 13232" requestID=3
+time="2024-02-04T12:21:05+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:21:56+01:00" level=info msg="2024-02-04 12:21:56 | / | POST | PostmanRuntime/7.36.1 | 201 | 20664" requestID=3
+time="2024-02-04T12:21:57+01:00" level=info msg="2024-02-04 12:21:57 | / | POST | PostmanRuntime/7.36.1 | 400 | 4904" requestID=3
+time="2024-02-04T12:21:59+01:00" level=info msg="2024-02-04 12:21:59 | / | POST | PostmanRuntime/7.36.1 | 400 | 3487" requestID=3
+time="2024-02-04T12:22:09+01:00" level=info msg="2024-02-04 12:22:09 | /421 | GET | PostmanRuntime/7.36.1 | 400 | 44" requestID=3
+time="2024-02-04T12:22:37+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:22:55+01:00" level=info msg="2024-02-04 12:22:55 | / | POST | PostmanRuntime/7.36.1 | 201 | 12835049" requestID=3
+time="2024-02-04T12:23:43+01:00" level=info msg="2024-02-04 12:23:43 | /421 | GET | PostmanRuntime/7.36.1 | 400 | 29559870" requestID=3
+time="2024-02-04T12:24:43+01:00" level=info msg="2024-02-04 12:24:43 | /421 | GET | PostmanRuntime/7.36.1 | 400 | 3989142" requestID=3
+time="2024-02-04T12:25:39+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:26:32+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:26:34+01:00" level=info msg="2024-02-04 12:26:34 | /421 | GET | PostmanRuntime/7.36.1 | 400 | 109" requestID=3
+time="2024-02-04T12:26:36+01:00" level=info msg="2024-02-04 12:26:36 | /421 | GET | PostmanRuntime/7.36.1 | 400 | 27" requestID=3
+time="2024-02-04T12:29:39+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:29:42+01:00" level=info msg="2024-02-04 12:29:42 | /421 | GET | PostmanRuntime/7.36.1 | 500 | 1203" requestID=3
+time="2024-02-04T12:32:03+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:32:06+01:00" level=info msg="2024-02-04 12:32:06 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 331" requestID=3
+time="2024-02-04T12:37:34+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:37:36+01:00" level=info msg="2024-02-04 12:37:36 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 332" requestID=3
+time="2024-02-04T12:41:10+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:41:15+01:00" level=info msg="2024-02-04 12:41:15 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 317" requestID=3
+time="2024-02-04T12:50:37+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:50:41+01:00" level=info msg="2024-02-04 12:50:41 | /421 | GET | PostmanRuntime/7.36.1 | 500 | 147" requestID=3
+time="2024-02-04T12:50:46+01:00" level=info msg="2024-02-04 12:50:46 | /421 | GET | PostmanRuntime/7.36.1 | 500 | 156" requestID=3
+time="2024-02-04T12:50:46+01:00" level=info msg="2024-02-04 12:50:46 | /421 | GET | PostmanRuntime/7.36.1 | 500 | 37" requestID=3
+time="2024-02-04T12:51:22+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:53:47+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T12:54:19+01:00" level=info msg="2024-02-04 12:54:19 | /421 | GET | PostmanRuntime/7.36.1 | 500 | 29548723" requestID=3
+time="2024-02-04T12:54:51+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:01:52+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:01:53+01:00" level=info msg="2024-02-04 13:01:53 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 171" requestID=3
+time="2024-02-04T13:01:56+01:00" level=info msg="2024-02-04 13:01:56 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 102" requestID=3
+time="2024-02-04T13:01:57+01:00" level=info msg="2024-02-04 13:01:57 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 17" requestID=3
+time="2024-02-04T13:01:57+01:00" level=info msg="2024-02-04 13:01:57 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 20" requestID=3
+time="2024-02-04T13:01:58+01:00" level=info msg="2024-02-04 13:01:58 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 19" requestID=3
+time="2024-02-04T13:01:59+01:00" level=info msg="2024-02-04 13:01:59 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 26" requestID=3
+time="2024-02-04T13:03:35+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:03:39+01:00" level=info msg="2024-02-04 13:03:39 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 146" requestID=3
+time="2024-02-04T13:03:40+01:00" level=info msg="2024-02-04 13:03:40 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 92" requestID=3
+time="2024-02-04T13:03:41+01:00" level=info msg="2024-02-04 13:03:41 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 61" requestID=3
+time="2024-02-04T13:03:47+01:00" level=info msg="2024-02-04 13:03:47 | / | POST | PostmanRuntime/7.36.1 | 201 | 21295" requestID=3
+time="2024-02-04T13:03:49+01:00" level=info msg="2024-02-04 13:03:49 | / | POST | PostmanRuntime/7.36.1 | 400 | 11641" requestID=3
+time="2024-02-04T13:03:55+01:00" level=info msg="2024-02-04 13:03:55 | /421 | GET | PostmanRuntime/7.36.1 | 500 | 981" requestID=3
+time="2024-02-04T13:04:49+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:06:05+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:06:12+01:00" level=info msg="2024-02-04 13:06:12 | / | POST | PostmanRuntime/7.36.1 | 201 | 24247" requestID=3
+time="2024-02-04T13:06:13+01:00" level=info msg="2024-02-04 13:06:13 | / | POST | PostmanRuntime/7.36.1 | 400 | 9652" requestID=3
+time="2024-02-04T13:06:20+01:00" level=info msg="2024-02-04 13:06:20 | /421 | GET | PostmanRuntime/7.36.1 | 200 | 3417" requestID=3
+time="2024-02-04T13:16:06+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:16:13+01:00" level=info msg="2024-02-04 13:16:13 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 3440009" requestID=3
+time="2024-02-04T13:16:23+01:00" level=info msg="2024-02-04 13:16:23 | / | POST | PostmanRuntime/7.36.1 | 201 | 23496" requestID=3
+time="2024-02-04T13:16:26+01:00" level=info msg="2024-02-04 13:16:26 | /421 | GET | PostmanRuntime/7.36.1 | 201 | 3519" requestID=3
+time="2024-02-04T13:18:00+01:00" level=info msg="2024-02-04 13:18:00 | /421 | GET | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 | 400 | 47" requestID="<nil>"
+time="2024-02-04T13:18:00+01:00" level=info msg="2024-02-04 13:18:00 | /favicon.ico | GET | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 | 400 | 24" requestID="<nil>"
+time="2024-02-04T13:30:11+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:30:18+01:00" level=info msg="2024-02-04 13:30:18 | /421 | GET | PostmanRuntime/7.36.1 | 404 | 129" requestID=3
+time="2024-02-04T13:30:31+01:00" level=info msg="2024-02-04 13:30:31 | / | POST | PostmanRuntime/7.36.1 | 201 | 21797" requestID=3
+time="2024-02-04T13:30:37+01:00" level=info msg="2024-02-04 13:30:37 | /421 | GET | PostmanRuntime/7.36.1 | 201 | 3451" requestID=3
+time="2024-02-04T13:30:42+01:00" level=info msg="2024-02-04 13:30:42 | /421 | GET | PostmanRuntime/7.36.1 | 201 | 3484" requestID=3
+time="2024-02-04T13:30:43+01:00" level=info msg="2024-02-04 13:30:43 | /421 | GET | PostmanRuntime/7.36.1 | 201 | 4674" requestID=3
+time="2024-02-04T13:33:02+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:33:12+01:00" level=info msg="2024-02-04 13:33:12 | / | POST | PostmanRuntime/7.36.1 | 201 | 14413" requestID=3
+time="2024-02-04T13:33:16+01:00" level=info msg="2024-02-04 13:33:16 | /421 | GET | PostmanRuntime/7.36.1 | 200 | 3150" requestID=3
+time="2024-02-04T13:37:13+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T13:37:24+01:00" level=info msg="2024-02-04 13:37:24 | / | POST | PostmanRuntime/7.36.1 | 201 | 14823" requestID=3
+time="2024-02-04T13:37:26+01:00" level=info msg="2024-02-04 13:37:26 | / | POST | PostmanRuntime/7.36.1 | 400 | 5578" requestID=3
+time="2024-02-04T13:37:31+01:00" level=info msg="2024-02-04 13:37:31 | /421 | GET | PostmanRuntime/7.36.1 | 200 | 4293" requestID=3
+time="2024-02-04T14:20:48+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:20:53+01:00" level=info msg="2024-02-04 14:20:53 | /r1sa | GET | PostmanRuntime/7.36.1 | 400 | 70" requestID=3
+time="2024-02-04T14:23:40+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:24:01+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:24:03+01:00" level=info msg="2024-02-04 14:24:03 | /r1sa | GET | PostmanRuntime/7.36.1 | 400 | 342" requestID=3
+time="2024-02-04T14:24:04+01:00" level=info msg="2024-02-04 14:24:04 | /r1sa | GET | PostmanRuntime/7.36.1 | 400 | 177" requestID=3
+time="2024-02-04T14:24:05+01:00" level=info msg="2024-02-04 14:24:05 | /r1sa | GET | PostmanRuntime/7.36.1 | 400 | 31" requestID=3
+time="2024-02-04T14:24:26+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:24:39+01:00" level=info msg="2024-02-04 14:24:39 | /file/321 | GET | PostmanRuntime/7.36.1 | 404 | 171" requestID=3
+time="2024-02-04T14:26:00+01:00" level=info msg="2024-02-04 14:26:00 | /file/321 | GET | PostmanRuntime/7.36.1 | 404 | 14" requestID=3
+time="2024-02-04T14:27:36+01:00" level=info msg="2024-02-04 14:27:36 | /file | POST | PostmanRuntime/7.36.1 | 201 | 4574" requestID=3
+time="2024-02-04T14:27:42+01:00" level=info msg="2024-02-04 14:27:42 | /file/321 | GET | PostmanRuntime/7.36.1 | 200 | 181" requestID=3
+time="2024-02-04T14:28:29+01:00" level=info msg="2024-02-04 14:28:29 | /file/321 | GET | PostmanRuntime/7.36.1 | 200 | 180" requestID=3
+time="2024-02-04T14:29:31+01:00" level=info msg="2024-02-04 14:29:31 | /file/421 | GET | PostmanRuntime/7.36.1 | 404 | 40" requestID=3
+time="2024-02-04T14:29:46+01:00" level=info msg="2024-02-04 14:29:46 | /file | POST | PostmanRuntime/7.36.1 | 201 | 15454" requestID=3
+time="2024-02-04T14:29:52+01:00" level=info msg="2024-02-04 14:29:52 | /file/1 | GET | PostmanRuntime/7.36.1 | 200 | 145" requestID=3
+time="2024-02-04T14:31:17+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:31:30+01:00" level=info msg="2024-02-04 14:31:30 | /file | POST | PostmanRuntime/7.36.1 | 500 | 160" requestID=3
+time="2024-02-04T14:31:42+01:00" level=info msg="2024-02-04 14:31:42 | /file | POST | PostmanRuntime/7.36.1 | 201 | 1940" requestID=3
+time="2024-02-04T14:31:45+01:00" level=info msg="2024-02-04 14:31:45 | /file | POST | PostmanRuntime/7.36.1 | 400 | 713" requestID=3
+time="2024-02-04T14:31:51+01:00" level=info msg="2024-02-04 14:31:51 | /file/2 | GET | PostmanRuntime/7.36.1 | 200 | 166" requestID=3
+time="2024-02-04T14:34:04+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:34:08+01:00" level=info msg="2024-02-04 14:34:08 | /file/2 | GET | PostmanRuntime/7.36.1 | 404 | 135" requestID=3
+time="2024-02-04T14:34:14+01:00" level=info msg="2024-02-04 14:34:14 | /file | POST | PostmanRuntime/7.36.1 | 201 | 2356" requestID=3
+time="2024-02-04T14:34:19+01:00" level=info msg="2024-02-04 14:34:19 | /file/2 | GET | PostmanRuntime/7.36.1 | 200 | 601" requestID=3
+time="2024-02-04T14:35:03+01:00" level=info msg="2024-02-04 14:35:03 | /file/2 | GET | PostmanRuntime/7.36.1 | 200 | 457" requestID=3
+time="2024-02-04T14:35:09+01:00" level=info msg="2024-02-04 14:35:09 | /file | POST | PostmanRuntime/7.36.1 | 400 | 95" requestID=3
+time="2024-02-04T14:35:15+01:00" level=info msg="2024-02-04 14:35:15 | /file | POST | PostmanRuntime/7.36.1 | 201 | 347" requestID=3
+time="2024-02-04T14:35:19+01:00" level=info msg="2024-02-04 14:35:19 | /file/3 | GET | PostmanRuntime/7.36.1 | 200 | 176" requestID=3
+time="2024-02-04T14:35:33+01:00" level=info msg="2024-02-04 14:35:33 | /file/3 | GET | PostmanRuntime/7.36.1 | 200 | 152" requestID=3
+time="2024-02-04T14:35:56+01:00" level=info msg="2024-02-04 14:35:56 | /file | POST | PostmanRuntime/7.36.1 | 201 | 23541" requestID=3
+time="2024-02-04T14:36:16+01:00" level=info msg="2024-02-04 14:36:16 | /file | POST | PostmanRuntime/7.36.1 | 400 | 7481" requestID=3
+time="2024-02-04T14:36:31+01:00" level=info msg="2024-02-04 14:36:31 | /file | POST | PostmanRuntime/7.36.1 | 500 | 6140" requestID=3
+time="2024-02-04T14:36:35+01:00" level=info msg="2024-02-04 14:36:35 | /file | POST | PostmanRuntime/7.36.1 | 201 | 31000" requestID=3
+time="2024-02-04T14:36:42+01:00" level=info msg="2024-02-04 14:36:42 | /file/5 | GET | PostmanRuntime/7.36.1 | 200 | 7787" requestID=3
+time="2024-02-04T14:37:01+01:00" level=info msg="2024-02-04 14:37:01 | /file/2 | GET | PostmanRuntime/7.36.1 | 200 | 195" requestID=3
+time="2024-02-04T14:37:02+01:00" level=info msg="2024-02-04 14:37:02 | /file/3 | GET | PostmanRuntime/7.36.1 | 200 | 110" requestID=3
+time="2024-02-04T14:37:03+01:00" level=info msg="2024-02-04 14:37:03 | /file/1 | GET | PostmanRuntime/7.36.1 | 404 | 96" requestID=3
+time="2024-02-04T14:37:05+01:00" level=info msg="2024-02-04 14:37:05 | /file/4 | GET | PostmanRuntime/7.36.1 | 200 | 3933" requestID=3
+time="2024-02-04T14:37:06+01:00" level=info msg="2024-02-04 14:37:06 | /file/5 | GET | PostmanRuntime/7.36.1 | 200 | 4093" requestID=3
+time="2024-02-04T14:37:08+01:00" level=info msg="2024-02-04 14:37:08 | /file/2 | GET | PostmanRuntime/7.36.1 | 200 | 527" requestID=3
+time="2024-02-04T14:38:52+01:00" level=info msg="2024-02-04 14:38:52 | /file | POST | PostmanRuntime/7.36.1 | 201 | 17385" requestID=3
+time="2024-02-04T14:38:54+01:00" level=info msg="2024-02-04 14:38:54 | /file | POST | PostmanRuntime/7.36.1 | 400 | 4162" requestID=3
+time="2024-02-04T14:38:59+01:00" level=info msg="2024-02-04 14:38:59 | /file/6 | GET | PostmanRuntime/7.36.1 | 200 | 3038" requestID=3
+time="2024-02-04T14:39:41+01:00" level=info msg="2024-02-04 14:39:41 | /file | POST | PostmanRuntime/7.36.1 | 201 | 1959" requestID=3
+time="2024-02-04T14:39:52+01:00" level=info msg="2024-02-04 14:39:52 | /file | POST | PostmanRuntime/7.36.1 | 400 | 3570" requestID=3
+time="2024-02-04T14:39:56+01:00" level=info msg="2024-02-04 14:39:56 | /file | POST | PostmanRuntime/7.36.1 | 201 | 1330" requestID=3
+time="2024-02-04T14:40:00+01:00" level=info msg="2024-02-04 14:40:00 | /file/7 | GET | PostmanRuntime/7.36.1 | 200 | 474" requestID=3
+time="2024-02-04T14:40:03+01:00" level=info msg="2024-02-04 14:40:03 | /file/8 | GET | PostmanRuntime/7.36.1 | 200 | 235" requestID=3
+time="2024-02-04T14:40:05+01:00" level=info msg="2024-02-04 14:40:05 | /file/7 | GET | PostmanRuntime/7.36.1 | 200 | 231" requestID=3
+time="2024-02-04T14:51:25+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:51:29+01:00" level=info msg="2024-02-04 14:51:29 | /file/7 | GET | PostmanRuntime/7.36.1 | 404 | 239" requestID=3
+time="2024-02-04T14:51:30+01:00" level=info msg="2024-02-04 14:51:30 | /file/7 | GET | PostmanRuntime/7.36.1 | 404 | 38" requestID=3
+time="2024-02-04T14:51:31+01:00" level=info msg="2024-02-04 14:51:31 | /file/7 | GET | PostmanRuntime/7.36.1 | 404 | 117" requestID=3
+time="2024-02-04T14:51:41+01:00" level=info msg="2024-02-04 14:51:41 | /file | POST | PostmanRuntime/7.36.1 | 201 | 1797" requestID=3
+time="2024-02-04T14:51:42+01:00" level=info msg="2024-02-04 14:51:42 | /file | POST | PostmanRuntime/7.36.1 | 400 | 257" requestID=3
+time="2024-02-04T14:58:20+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T14:58:24+01:00" level=info msg="2024-02-04 14:58:24 | /file | POST | PostmanRuntime/7.36.1 | 201 | 1056" requestID=3
+time="2024-02-04T14:58:25+01:00" level=info msg="2024-02-04 14:58:25 | /file | POST | PostmanRuntime/7.36.1 | 400 | 505" requestID=3
+time="2024-02-04T14:58:29+01:00" level=info msg="2024-02-04 14:58:29 | /fileasd | POST | PostmanRuntime/7.36.1 | 404 | 16" requestID=3
+time="2024-02-04T15:05:35+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T15:05:38+01:00" level=info msg="2024-02-04 15:05:38 | /fileasd | POST | PostmanRuntime/7.36.1 | 404 | 39" requestID=3
+time="2024-02-04T15:05:43+01:00" level=info msg="2024-02-04 15:05:43 | /file | POST | PostmanRuntime/7.36.1 | 201 | 1891" requestID=3
+time="2024-02-04T15:05:46+01:00" level=info msg="2024-02-04 15:05:46 | /file/7 | GET | PostmanRuntime/7.36.1 | 404 | 1020" requestID=3
+time="2024-02-04T15:06:59+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T15:07:00+01:00" level=info msg="2024-02-04 15:07:00 | /file/7 | GET | PostmanRuntime/7.36.1 | 404 | 123" requestID=3
+time="2024-02-04T15:07:03+01:00" level=info msg="2024-02-04 15:07:03 | /file/7 | GET | PostmanRuntime/7.36.1 | 404 | 42" requestID=3
+time="2024-02-04T16:18:04+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T16:18:13+01:00" level=info msg="2024-02-04 16:18:13 | /file/lf | GET | PostmanRuntime/7.36.1 | 400 | 122" requestID=3
+time="2024-02-04T16:18:20+01:00" level=info msg="2024-02-04 16:18:20 | /file | POST | PostmanRuntime/7.36.1 | 500 | 213" requestID=3
+time="2024-02-04T16:21:52+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T16:21:55+01:00" level=info msg="2024-02-04 16:21:55 | /file | POST | PostmanRuntime/7.36.1 | 400 | 391" requestID=3
+time="2024-02-04T16:21:57+01:00" level=info msg="2024-02-04 16:21:57 | /file | POST | PostmanRuntime/7.36.1 | 400 | 242" requestID=3
+time="2024-02-04T19:02:27+01:00" level=info msg="Service running in :3001" requestID="<nil>"
+time="2024-02-04T19:02:31+01:00" level=info msg="2024-02-04 19:02:31 | /file | POST | Go-http-client/1.1 | 400 | 338" requestID=3
+time="2024-02-04T19:02:31+01:00" level=info msg="2024-02-04 19:02:31 | /upload | POST | Go-http-client/1.1 | 400 | 164" requestID="<nil>"
+time="2024-02-04T19:02:31+01:00" level=info msg="2024-02-04 19:02:31 | /files/0 | GET | Go-http-client/1.1 | 400 | 25" requestID="<nil>"
+time="2024-02-04T19:03:05+01:00" level=info msg="2024-02-04 19:03:05 | /upload | POST | Go-http-client/1.1 | 400 | 76" requestID="<nil>"
+time="2024-02-04T19:03:05+01:00" level=info msg="2024-02-04 19:03:05 | /files/0 | GET | Go-http-client/1.1 | 400 | 12" requestID="<nil>"
+time="2024-02-04T19:16:02+01:00" level=info msg="2024-02-04 19:16:02 | /upload | POST | Go-http-client/1.1 | 404 | 146" requestID=4
+time="2024-02-04T19:16:31+01:00" level=info msg="2024-02-04 19:16:31 | /upload | POST | Go-http-client/1.1 | 404 | 36" requestID=4
+time="2024-02-04T19:17:08+01:00" level=info msg="2024-02-04 19:17:08 | /upload | POST | PostmanRuntime/7.36.1 | 400 | 31" requestID="<nil>"
+time="2024-02-04T19:17:20+01:00" level=info msg="2024-02-04 19:17:20 | /file | POST | Go-http-client/1.1 | 400 | 186" requestID=4
+time="2024-02-04T19:26:30+01:00" level=info msg="2024-02-04 19:26:30 | /file | POST | Go-http-client/1.1 | 201 | 1074" requestID=10001
+time="2024-02-04T19:31:03+01:00" level=info msg="2024-02-04 19:31:03 | /file | POST | Go-http-client/1.1 | 201 | 1238" requestID=1
+time="2024-02-04T19:31:36+01:00" level=info msg="2024-02-04 19:31:36 | /file | POST | Go-http-client/1.1 | 400 | 179" requestID=1
+time="2024-02-04T19:35:38+01:00" level=info msg="2024-02-04 19:35:38 | /file | POST | Go-http-client/1.1 | 201 | 1098" requestID=1
+time="2024-02-04T19:39:45+01:00" level=info msg="2024-02-04 19:39:45 | /file | POST | Go-http-client/1.1 | 201 | 1034" requestID=1
+time="2024-02-04T19:39:45+01:00" level=info msg="2024-02-04 19:39:45 | /file/1 | GET | Go-http-client/1.1 | 404 | 151" requestID=1
+time="2024-02-04T19:41:02+01:00" level=info msg="2024-02-04 19:41:02 | /file | POST | Go-http-client/1.1 | 201 | 978" requestID=1
+time="2024-02-04T19:41:02+01:00" level=info msg="2024-02-04 19:41:02 | /file/1 | GET | Go-http-client/1.1 | 200 | 367" requestID=1
+time="2024-02-04T19:45:01+01:00" level=info msg="2024-02-04 19:45:01 | /file | POST | Go-http-client/1.1 | 400 | 99" requestID=1
+time="2024-02-04T19:45:01+01:00" level=info msg="2024-02-04 19:45:01 | /file/1 | GET | Go-http-client/1.1 | 200 | 379" requestID=1
+time="2024-02-04T19:45:01+01:00" level=info msg="2024-02-04 19:45:01 | /file/-1 | GET | Go-http-client/1.1 | 404 | 47" requestID=1
+time="2024-02-04T19:49:32+01:00" level=info msg="2024-02-04 19:49:32 | /file | POST | Go-http-client/1.1 | 201 | 1206" requestID=1
+time="2024-02-04T19:49:32+01:00" level=info msg="2024-02-04 19:49:32 | /file | POST | Go-http-client/1.1 | 400 | 96" requestID=1
+time="2024-02-04T19:49:32+01:00" level=info msg="2024-02-04 19:49:32 | /file/1 | GET | Go-http-client/1.1 | 200 | 239" requestID=1
+time="2024-02-04T19:49:32+01:00" level=info msg="2024-02-04 19:49:32 | /file/-1 | GET | Go-http-client/1.1 | 404 | 50" requestID=1
+time="2024-02-04T19:51:14+01:00" level=info msg="2024-02-04 19:51:14 | /file | POST | Go-http-client/1.1 | 201 | 1089" requestID=1
+time="2024-02-04T19:51:14+01:00" level=info msg="2024-02-04 19:51:14 | /file | POST | Go-http-client/1.1 | 400 | 187" requestID=1
+time="2024-02-04T19:51:14+01:00" level=info msg="2024-02-04 19:51:14 | /file/1 | GET | Go-http-client/1.1 | 200 | 227" requestID=1
+time="2024-02-04T19:51:14+01:00" level=info msg="2024-02-04 19:51:14 | /file/-1 | GET | Go-http-client/1.1 | 404 | 47" requestID=1
+time="2024-02-04T19:52:54+01:00" level=info msg="2024-02-04 19:52:54 | /file | POST | Go-http-client/1.1 | 201 | 1161" requestID=1
+time="2024-02-04T19:52:54+01:00" level=info msg="2024-02-04 19:52:54 | /file | POST | Go-http-client/1.1 | 400 | 105" requestID=1
+time="2024-02-04T19:52:54+01:00" level=info msg="2024-02-04 19:52:54 | /file | POST | Go-http-client/1.1 | 400 | 100" requestID=1
+time="2024-02-04T19:52:54+01:00" level=info msg="2024-02-04 19:52:54 | /file/1 | GET | Go-http-client/1.1 | 200 | 394" requestID=1
+time="2024-02-04T19:52:54+01:00" level=info msg="2024-02-04 19:52:54 | /file | POST | Go-http-client/1.1 | 400 | 122" requestID=1
+time="2024-02-04T19:52:54+01:00" level=info msg="2024-02-04 19:52:54 | /file/-1 | GET | Go-http-client/1.1 | 404 | 70" requestID=1
+time="2024-02-04T19:53:37+01:00" level=info msg="2024-02-04 19:53:37 | /file | POST | Go-http-client/1.1 | 201 | 1153" requestID=1
+time="2024-02-04T19:53:37+01:00" level=info msg="2024-02-04 19:53:37 | /file | POST | Go-http-client/1.1 | 201 | 665" requestID=1
+time="2024-02-04T19:53:37+01:00" level=info msg="2024-02-04 19:53:37 | /file | POST | Go-http-client/1.1 | 400 | 122" requestID=1
+time="2024-02-04T19:53:37+01:00" level=info msg="2024-02-04 19:53:37 | /file/1 | GET | Go-http-client/1.1 | 200 | 287" requestID=1
+time="2024-02-04T19:53:37+01:00" level=info msg="2024-02-04 19:53:37 | /file | POST | Go-http-client/1.1 | 400 | 108" requestID=1
+time="2024-02-04T19:53:37+01:00" level=info msg="2024-02-04 19:53:37 | /file/-1 | GET | Go-http-client/1.1 | 404 | 49" requestID=1
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file | POST | Go-http-client/1.1 | 201 | 528" requestID=1
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file | POST | Go-http-client/1.1 | 400 | 67" requestID=1
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file | POST | Go-http-client/1.1 | 400 | 62" requestID=1
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file/1 | GET | Go-http-client/1.1 | 200 | 169" requestID=1
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file | POST | Go-http-client/1.1 | 400 | 103" requestID=1
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file/1 | GET | Go-http-client/1.1 | 400 | 35" requestID="<nil>"
+time="2024-02-04T19:54:55+01:00" level=info msg="2024-02-04 19:54:55 | /file/-1 | GET | Go-http-client/1.1 | 404 | 40" requestID=1
+time="2024-02-04T20:03:09+01:00" level=info msg="2024-02-04 20:03:09 | /file | POST | PostmanRuntime/7.36.1 | 400 | 176" requestID=3
+time="2024-02-04T20:03:24+01:00" level=info msg="2024-02-04 20:03:24 | /file | POST | PostmanRuntime/7.36.1 | 400 | 292" requestID=162b5587-cad9-483f-ad2a-54b25c83c9b1
+time="2024-02-04T20:03:29+01:00" level=info msg="2024-02-04 20:03:29 | /file | POST | PostmanRuntime/7.36.1 | 201 | 3535" requestID=67356256-8910-4eb4-a4e9-cc606f8bc004
+time="2024-02-04T20:04:00+01:00" level=info msg="2024-02-04 20:04:00 | /file | POST | PostmanRuntime/7.36.1 | 400 | 416" requestID=10bae342-dbfe-4ce9-a6c2-c6e5aff3daee
+time="2024-02-04T20:04:12+01:00" level=info msg="2024-02-04 20:04:12 | /file/132 | GET | PostmanRuntime/7.36.1 | 400 | 15" requestID="<nil>"
+time="2024-02-04T20:04:28+01:00" level=info msg="2024-02-04 20:04:28 | /file/132 | GET | PostmanRuntime/7.36.1 | 200 | 1330" requestID=887b45aa-b7b0-4a55-ae33-d0d6f212e645

@@ -1,0 +1,19 @@
+time="2024-02-01T19:54:00+01:00" level=error msg="Failed to create directories: [mkdir /41/: read-only file system]" requestID=9115748
+time="2024-02-01T19:55:26+01:00" level=error msg="Failed to create directories: [mkdir /41/: read-only file system]" requestID=9115748
+time="2024-02-01T19:58:41+01:00" level=error msg="Failed to create file: [open /41/%!(EXTRA string=P7263450.JPG): no such file or directory]" requestID=6652310
+time="2024-02-03T14:30:57+01:00" level=error msg="Error saving path [error guardando ruta]" requestID=1
+time="2024-02-03T14:30:57+01:00" level=error msg="Failed to save path [unexpected internal error: error guardando ruta]" requestID=1
+time="2024-02-03T14:31:23+01:00" level=error msg="Error saving path [error guardando ruta]" requestID=2
+time="2024-02-03T14:31:23+01:00" level=error msg="Failed to save path [unexpected internal error: error guardando ruta]" requestID=2
+time="2024-02-03T14:31:24+01:00" level=error msg="Error saving path [error guardando ruta]" requestID=3
+time="2024-02-03T14:31:24+01:00" level=error msg="Failed to save path [unexpected internal error: error guardando ruta]" requestID=3
+time="2024-02-04T12:29:42+01:00" level=error msg="Error retrieving path: resource not found: failed in data access: path with id 421 not found" requestID=3
+time="2024-02-04T12:29:42+01:00" level=error msg="Failed to retrieve path with id %!s(int64=421): resource not found: failed in data access: path with id 421 not found" requestID=3
+time="2024-02-04T12:32:06+01:00" level=error msg="Error retrieving path: resource not found: failed in data access: path with id 421 not found" requestID=3
+time="2024-02-04T12:32:06+01:00" level=error msg="Failed to retrieve path with id %!s(int64=421): resource not found: failed in data access: path with id 421 not found" requestID=3
+time="2024-02-04T12:37:36+01:00" level=error msg="Error retrieving path: resource not found: path with id 421 not found" requestID=3
+time="2024-02-04T12:37:36+01:00" level=error msg="Failed to retrieve path with id 421: resource not found: path with id 421 not found" requestID=3
+time="2024-02-04T12:41:15+01:00" level=error msg="Error retrieving path: resource not found: path with id 421 not found" requestID=3
+time="2024-02-04T12:41:15+01:00" level=error msg="Failed to retrieve path with id 421: resource not found: path with id 421 not found" requestID=3
+time="2024-02-04T13:03:55+01:00" level=error msg="File with ID 421 not found in path /Users/lucastomicbenitez/Development/simpleDMS/storageservice/files/Users/lucastomicbenitez/Development/simpleDMS/storageservice/files/P7263450.JPG" requestID=3
+time="2024-02-04T15:05:46+01:00" level=error msg="Failed retrieving file with ID 7: failed retrieving ID 7: resource not found" requestID=3
